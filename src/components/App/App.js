@@ -52,7 +52,7 @@ class App extends Component {
   render() {
     const { gapiLoaded } = this.state;
 
-    return gapiLoaded && config.clientId ? (
+    return gapiLoaded ? (
       <div>
         <Home />
       </div>
