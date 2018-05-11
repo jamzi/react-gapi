@@ -9,3 +9,7 @@ Sample repo showing how to use Google's GAPI client with React
 - Add http://localhost:3000 to Authorised Javascript origins
 - Copy clientId to the app
 - clear browser cache (in DevTools)
+
+To run:
+- npm install
+- npm run start
